@@ -1,0 +1,160 @@
+{
+  "foods":[
+    {
+      "name": "香辣鸡腿堡",
+      "price": 18
+    },
+    {
+      "name": "田园鸡腿堡",
+      "price": 15
+    },
+    {
+      "name": "和风汉堡",
+      "price": 15
+    },
+    {
+      "name": "大宝薯条",
+      "price": 18
+    },
+    {
+      "name": "脆皮炸鸡腿",
+      "price": 20
+    },
+    {
+      "name": "魔法鸡块",
+       "price": 20
+    },
+    {
+      "name": "儿童欢乐套餐",
+      "price": 25
+    },
+    {
+      "name": "可乐大杯",
+      "price": 10
+    },
+    {
+      "name": "雪顶咖啡",
+       "price": 18
+    },
+    {
+      "name": "儿童欢乐套餐",
+      "price": 25
+    },
+    {
+      "name": "雪顶咖啡",
+      "price": 18
+    },
+    {
+      "name": "和风汉堡",
+      "price": 15
+    },
+    {
+      "name": "雪顶咖啡",
+      "price": 18
+    },
+    {
+      "name": "和风汉堡",
+      "price": 15
+    },
+    {
+      "name": "雪顶咖啡",
+      "price": 18
+    },
+    {
+      "name": "儿童欢乐套餐",
+      "price": 25
+    },
+    {
+      "name": "快乐全家桶",
+      "price": 99
+    }
+
+],
+  "goods": [
+    {
+      "name": "汉堡",
+      "goodsItem": [
+        {
+          "name": "香辣鸡腿堡",
+          "price": 18,
+          "imageUrl": "static/image/pos001.jpg"
+        },
+        {
+          "name": "田园鸡腿堡",
+          "price": 15,
+          "imageUrl": "static/image/pos002.jpg"
+        },
+        {
+          "name": "和风汉堡",
+          "price": 15,
+          "imageUrl": "static/image/pos004.jpg"
+        }
+      ]
+    },
+    {
+      "name": "小食",
+      "goodsItem": [
+        {
+          "name": "麻辣鸡腿",
+          "price": 10,
+          "imageUrl": "static/image/jitui001.jpg"
+        },
+        {
+          "name": "麻辣鸡块",
+          "price": 25,
+          "imageUrl": "static/image/jikuai001.jpg"
+        },
+        {
+          "name": "薯条",
+          "price": 15,
+          "imageUrl": "static/image/shutiao001.jpg"
+        }
+      ]
+    },
+    {
+      "name": "套餐",
+      "goodsItem": [
+        {
+          "name": "鸡排饭",
+          "price": 20,
+          "imageUrl": "static/image/pos003.jpg"
+        },
+        {
+          "name": "热干面",
+          "price": 5,
+          "imageUrl": "static/image/reganmian001.jpg"
+        }
+      ]
+    },
+    {
+      "name": "饮料",
+      "goodsItem": [
+        {
+          "name": "果芬粒",
+          "price": 25,
+          "imageUrl": "static/image/yinliao001.jpg"
+        },
+        {
+          "name": "鸡尾酒",
+          "price": 15,
+          "imageUrl": "static/image/yinliao002.jpg"
+        },
+        {
+          "name": "冰镇橙汁",
+          "price": 12,
+          "imageUrl": "static/image/yinliao003.jpg"
+        },
+        {
+          "name": "水果冰",
+          "price": 30,
+          "imageUrl": "static/image/yinliao004.jpg"
+        },
+        {
+          "name": "可口可乐",
+          "price": 3,
+          "imageUrl": "static/image/yinliao005.jpg"
+        }
+      ]
+    }
+  ]
+}
